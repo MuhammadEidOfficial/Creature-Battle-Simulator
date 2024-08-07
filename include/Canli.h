@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Kullanilan diger turler icin ileri bildirimler
+// Kullanilan diger turler icin ileri bildirimler....
 struct BITKI;
 struct BOCEK;
 struct PIRE;
